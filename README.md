@@ -20,3 +20,5 @@ Take a look at these examples that i have in my own portfolio:
 ![Link to Twitter](https://twitter.com/home)
 
 ![Image Alt Text](./img/jspicture.PNG)
+
+![Image Alt Text](./img/question2CW.PNG)
