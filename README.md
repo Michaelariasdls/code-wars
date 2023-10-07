@@ -15,10 +15,8 @@ I'd like to go back and redo alot of these questions alot more efficiently
 This is my first week with codewars & pushing code to git so i will use this as a foundation to learn & grow confident with git as a whole.
 
 ## Examples
-Take a look at these examples that i have in my own portfolio
+Take a look at these examples that i have in my own portfolio:
 
 ![Link to Twitter](https://twitter.com/home)
 
-![Link to Twitter](https://twitter.com/home)
-
-![Link to Twitter](https://twitter.com/home)
+![Image Alt Text](./image-folder/jspicture.PNG)
