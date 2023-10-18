@@ -1,4 +1,4 @@
-Training JS #1: create your first JS function and print "Hello World!
+// Training JS #1: create your first JS function and print "Hello World!
 
 // Task
 // Please refer to two example above and write your first JS function.
